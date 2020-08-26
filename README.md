@@ -1,11 +1,11 @@
-#I. File list
+# I. File list
 ```
 .
 |    assess.py - Python script of phase 2 assessment
 |    Dockerfile - Docker file to run python script
 ```
 
-#II. How to Run
+# II. How to Run
 1. Download the associated data at <insert url later>. Note, that this already contains both the inputs and outputs 
 of the phase 2 assessment.
 2. Download and Run Docker Desktop. For more information on Docker visit: https://docs.docker.com/desktop/. To ensure 
