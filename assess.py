@@ -10,7 +10,7 @@ from sklearn.metrics import roc_curve, auc
 
 # Global Vars
 pathto_data = '/app_io'
-pathto_spacefeats = os.path.join(pathto_data, 'spatial_features_model', 'output-spatial_features')
+pathto_spacefeats = os.path.join(pathto_data, 'spatial_features_model', 'output')
 pathto_damdata = os.path.join(pathto_data, 'phase_1_optimization', 'input', 'MA_U.csv')
 pathto_deployidx = os.path.join(pathto_data, 'phase_1_optimization', 'input', 'deploy_idx.pkl')
 pathto_phase1_results = os.path.join(pathto_data, 'phase_1_results_convert', 'output', 'results.csv')
